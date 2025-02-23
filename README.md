@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Rom(hacks) and emulation**
 
-- ⚡ Fun fact **I'm Silver 4 in OW2 (Support)**
+- ⚡ Fun fact **I'm Gold 3 in Marvel Rivals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
