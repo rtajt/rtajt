@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **anything really**
 
-- 🤝 I’m looking for help with **a lot**
+- 🤝 I’m looking for help with **relearning HTML stuff**
 
 - 💬 Ask me about **Rom(hacks) and emulation**
 
-- ⚡ Fun fact **I'm Gold 3 in Marvel Rivals**
+- ⚡ Fun fact **I'm Gold 2 in OW2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
