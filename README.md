@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Rom(hacks) and emulation**
 
-- ⚡ Fun fact **I'm Gold 2 in OW2**
+- ⚡ Fun fact **I'm Gold 3 in OW2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
