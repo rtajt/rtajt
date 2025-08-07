@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtajt&label=Profile%20views&color=0e75b6&style=flat" alt="rtajt" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtajt" alt="rtajt" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtajt&theme=gruvbox" alt="rtajt" /></a> </p>
 
 - 🔭 I’m currently working on [getting freeCodeCamp certificates](https://www.freecodecamp.org/)
 
