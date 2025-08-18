@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [getting freeCodeCamp certificates](https://www.freecodecamp.org/)
 
-- 🌱 I’m currently learning **HTML**
+- 🌱 I’m currently learning **CSS and Java**
 
 - 👯 I’m looking to collaborate on **anything really**
 
